@@ -1,0 +1,1 @@
+## Code and additional material for KDD 24 submission Learning Graph Node Embeddings by Smooth Pair Sampling
